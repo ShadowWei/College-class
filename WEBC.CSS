@@ -2,7 +2,8 @@
    position: relative;
    max-width: 495px;
    height: 370px;
-   margin: 5em auto .5em auto;
+   margin: 1em auto .5em auto;
+
 }
 .css-slideshow figure{
    margin: 0;
@@ -12,7 +13,7 @@
    position: absolute;
    top: 0;
    color: #fff;
-   background: rgba(0,0,0, .3);
+   background: #3D3C3A;
    font-size: .8em;
    padding: 8px 12px;
    opacity: 0;
